@@ -1,0 +1,15 @@
+apiVersion: v1
+name: canvas
+description: The Canvas Helm chart for Kubernetes
+version: 1.0.0
+appVersion: "2019-07-13"
+home: https://github.com/mostafarezaei/Canvas-LMS-Helm-Chart
+sources:
+  - https://github.com/mostafarezaei/Canvas-LMS-Helm-Chart
+maintainers:
+  - name: Mostafa Rezaei
+    url: https://github.com/mostafarezaei/Canvas-LMS-Helm-Chart
+    email: mostafa.ezaeir@gmail.com
+keywords:
+  - canvas
+  - lms
